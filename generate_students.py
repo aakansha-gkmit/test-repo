@@ -22,4 +22,4 @@ def generate_students_csv(filename, count=50):
     print(f"Generated {count} student records into {filename}")
 
 if __name__ == "__main__":
-    generate_students_csv("students.csv", count=11)
+    generate_students_csv("students.csv", count=15)
