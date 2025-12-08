@@ -6,7 +6,7 @@ def mul(x, y):
 def sub(x, y):
     print(x-y)
 
-a = 1
+a = 2
 b = 1
 add(a, b)
 mul(a, b)
